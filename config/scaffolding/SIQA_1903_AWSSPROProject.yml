@@ -17,7 +17,7 @@ packages:
   gitServerName: SIQA_KVV_IBM
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
-  gitBranch: one_service
+  gitBranch: main
 services:
 - serviceName: project.siqa_1903_awsspro.integrations:tppdaf
   packages:
